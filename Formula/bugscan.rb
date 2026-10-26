@@ -3,8 +3,8 @@ class Bugscan < Formula
 
   desc "Find bugs in any folder: secrets, static analysis, vulnerable deps, fuzzing"
   homepage "https://github.com/mikemich/bugscan"
-  url "https://github.com/mikemich/bugscan/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9f146e2a4ff682f8f4dfd2fda8e50a5a553cbbfcbd65d8849106413de4150bb5"
+  url "https://github.com/mikemich/bugscan/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "934eb30b94f1f32cc32ff912998b290187b13f17bfe9c8cf1ba0692bcd9245cd"
   license "MIT"
 
   depends_on "gitleaks"
