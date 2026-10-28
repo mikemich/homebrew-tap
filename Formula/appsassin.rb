@@ -1,8 +1,8 @@
 class Appsassin < Formula
   desc "Find and kill forgotten apps and stray processes on macOS"
   homepage "https://github.com/mikemich/appsassin"
-  url "https://github.com/mikemich/appsassin/releases/download/v0.1.0/appsassin-macos.tar.gz"
-  sha256 "6777a9ad7f105c4b4f77a9571edb9e1cc9a1dce9cdd9a1efb218c8854e741a64"
+  url "https://github.com/mikemich/appsassin/releases/download/v0.2.0/appsassin-macos.tar.gz"
+  sha256 "c1e1cc145fb12150ca06ba6a7d738b0af5c73d17db813c92617f133230ea5e57"
   license "MIT"
 
   depends_on macos: :monterey
